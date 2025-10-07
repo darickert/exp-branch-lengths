@@ -1,3 +1,3 @@
 # exp-branch-lengths
 
-Contains the Jupyter notebook used to create figures and other results found in the preprint "Inconsistency of parsimony under the MSC" by Rickert, Hahn and Fan (2024). [(arXiv link)](https://arxiv.org/pdf/2407.02634)
+Contains the Jupyter notebook used to create figures and other results found in "Inconsistency of parsimony under the multispecies coalescent" (2025, Theoretical Population Biology). [(Article link)] (https://doi.org/10.1016/j.tpb.2025.09.004)
